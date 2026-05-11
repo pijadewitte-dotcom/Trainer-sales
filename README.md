@@ -15,7 +15,8 @@ Open `index.html` in een browser. Voor de volledige PWA/offline-installatie star
 - Belgische closingflow
 - Follow-up tekst met kopieerknop
 - 3-seconden stilte trainer
-- Random oefenmodus
+- Klantreactie trainer met verbeterde antwoorden
+- Aangepaste trainerantwoorden die onthouden worden per situatie
 - Gespreksscore
 - Reviews met localStorage
 - CSV-export voor reviews
