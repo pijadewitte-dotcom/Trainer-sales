@@ -1,0 +1,18 @@
+{
+  "name": "Trainer Sales",
+  "short_name": "Trainer Sales",
+  "description": "Offline verkoopcoach voor showroomverkopers van jacuzzi's, infraroodcabines en sauna's.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "lang": "nl-BE",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
